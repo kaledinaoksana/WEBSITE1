@@ -1,0 +1,10 @@
+
+bg_color = #19202e
+bg_color_dark = #1E2738
+bg_color_light = #FFFFFF
+
+text_light = #FFFFFF
+text_dark = #c5d7f7
+
+heart = #fe655c
+min_color = #6510F1
