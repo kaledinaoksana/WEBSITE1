@@ -30,12 +30,12 @@
                                 </div>
                             </div>
                             <hr>
-                            <!-- Row for two columns -->
+                            <!-- Row for two columns
                             <div class="row">
                                 <div class="col-md-6">
-                                    <?php include 'articles/crypto_art.php'; ?>
+                                    <?php #include 'articles/crypto_art.php'; ?>
                                 </div>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>
