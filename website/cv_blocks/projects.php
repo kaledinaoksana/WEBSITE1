@@ -23,10 +23,17 @@
     </div>
 </div><!--//item-->
 
-<div class="item">
+<!-- <div class="item">
     <h4 class="item-heading"><i class="item-icon bi bi-square-fill me-2"></i><a href="/website/pages/crypto.php">Crypto Currency API</a></h4>
     <div class="item-desc" style="text-align: justify">
         The project focused on conducting statistical analysis of cryptocurrency data, exploring variables such as price movements, trading volumes, 
         and market trends, to gain insights into the behavior and volatility of the digital asset, aiding in investment decision-making and risk assessment.
     </div>
-</div><!--//item-->
+</div>//item -->
+
+<div class="item">
+    <h4 class="item-heading"><i class="item-icon bi bi-square-fill me-2"></i><a href="/website/pages/website.php">Portfolio Website</a></h4>
+    <div class="item-desc" style="text-align: justify">
+    Portfolio website is developed by using Bootstrap. It showcases my web development skills and creativity.
+    </div>
+</div>

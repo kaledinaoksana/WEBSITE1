@@ -55,17 +55,18 @@
                                 <li class="list-inline-item"><span class="badge resume-skill-badge" style="color: black">Subqueries</span></li>                        
                             </ul>
 
-                            
 
                             <!-- Main Part of the Project -->
+                            <h3>Description + <a href="https://github.com/kaledinaoksana/covid" > <i class="fab fa-github" style="color: black;"></i> github</a></h3>
 
-                            <p> In <a href="https://github.com/kaledinaoksana/Covid19">my project</a>, I utilized data from an open-source dataset on COVID-19 and transferred 
+                            <p> I utilized data from an open-source dataset on COVID-19 and transferred 
                                 it into a database, honing my SQL skills in the process. By leveraging the available 
                                 COVID-19 data, I created a well-structured and efficient database using SQL queries. 
                                 This allowed me to practice querying, organizing, and analyzing the information, 
                                 gaining valuable experience in working with databases and enhancing my SQL proficiency. 
                                 Through this project, I developed a deeper understanding of COVID-19 data management and 
                                 improved my ability to extract meaningful insights from large datasets. 
+                                The GitHub repository can be found <a href="https://github.com/kaledinaoksana/covid">here</a>.
                             </p>
 
                             <h3>Preparation</h3>

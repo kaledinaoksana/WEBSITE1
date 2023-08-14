@@ -20,9 +20,12 @@
         <li class="list-inline-item"><span class="badge resume-skill-badge" style="color: black">Presentations</span></li> 
         <li class="list-inline-item"><span class="badge resume-skill-badge" style="color: black">Excel</span></li>                        
     </ul>
+
+    <h3>Description + <a href="https://github.com/kaledinaoksana/kpmg" > <i class="fab fa-github" style="color: black;"></i> github</a></h3>
+
     <!-- sum -->
     <div class="resume-summary-desc">
-        <p> <i class="fas fa-eye mr-2" href="https://github.com/kaledinaoksana/KPMG-internship"></i> Sprocket Central Pty Ltd has given us a new list of <b>1000 potential customers</b>
+        <p> Sprocket Central Pty Ltd has given us a new list of <b>1000 potential customers</b>
             with their demographics and attributes. 
         However, these customers do not have prior transaction history with the organisation.
         </p>
@@ -46,6 +49,8 @@
             with the following 3 phases as follows - Data Exploration; Model Development and 
             Interpretation.
         </p>
+        <p>
+         The GitHub repository can be found <a href="https://github.com/kaledinaoksana/kpmg">here</a>.</p>
     </div>
 
     <!-- framework -->
