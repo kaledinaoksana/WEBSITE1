@@ -32,11 +32,25 @@
                                 <li class="list-inline-item"><span class="badge resume-skill-badge" style="color: black">Bash</span></li>                        
                             </ul>
                             <!-- Main Part of the Project -->
-                            <p>In <a href="https://github.com/kaledinaoksana/website">my project</a>...
-                            </p>
+                            <h3>Description + <a href="https://github.com/kaledinaoksana/website1" > <i class="fab fa-github" style="color: black;"></i> github</a></h3>
+
+                            <p> 
+
+                                My portfolio is a website developed using Bootstrap. It showcases my web development skills and creativity. 
+                                It features a diverse range of projects, each accompanied by descriptions and code samples on GitHub. 
+                                Additionally, it includes a contact form and an "About Me" section with information about myself and my skills.
+                                The GitHub repository can be found <a href="https://github.com/kaledinaoksana/website1">here</a>.</p>
 
 
-
+                                <h3>Website Deployment Instructions</h3>
+                                <ol>
+                                    <li>Create bash script <code>notes.bash</code></li>
+                                    <li>Install XAMPP</li>
+                                    <li>Copy files <code>rsync -av --delete /path/to/your/website/ /Applications/XAMPP/xamppfiles/htdocs</code></li>
+                                    <li>Add rules <code>chmod +x notes.bash</code></li>
+                                    <li>Run .bash file <code>./notes.bash</code></li>
+                                    
+                                </ol>
                             <!-- Botton NEXT --> 
                             <div class="actions d-flex justify-content-center " style="padding: 5%">
                                 <a href="kpmg.php" class="button" style="color: #1E2738;">
