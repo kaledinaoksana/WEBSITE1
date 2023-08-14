@@ -1,0 +1,12 @@
+{
+    "git.confirmSync": false,
+    "workbench.editorAssociations": {
+        "*.php": "default"
+    },
+    "php.suggest.basic": true,
+    "php.validate.enable": true,
+    "php.validate.executablePath": "",
+    "files.associations": {
+        "*.module": "php"
+    }
+}
