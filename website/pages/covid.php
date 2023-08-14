@@ -202,7 +202,7 @@
 
                             <!-- Botton NEXT --> 
                             <div class="actions d-flex justify-content-center " style="padding: 5%">
-                                <a href="kpmg.php" class="button" style="color: #1E2738;">
+                                <a href="website.php" class="button" style="color: #1E2738;">
                                     <h3 class="resume-section-heading text-uppercase m-2 align-items-center" style="color: #1E2738;">
                                         <i class="fas fa-eye mr-2"></i>View Next Project
                                     </h3>

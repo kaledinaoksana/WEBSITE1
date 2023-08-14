@@ -30,6 +30,12 @@
                                 </div>
                             </div>
                             <hr>
+                             <!-- Row for two columns -->
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <?php include 'articles/website_art.php'; ?>
+                                </div>
+                            </div> 
                             <!-- Row for two columns
                             <div class="row">
                                 <div class="col-md-6">
